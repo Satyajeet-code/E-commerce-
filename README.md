@@ -14,11 +14,11 @@ GlamGroove is an e-commerce website built with HTML, CSS, and JavaScript, inspir
 - 🌟 Trending products section
 - 🧭 Ez navigation
   <hr>
-  ##Future Works:
+  ## Future Works:
 
-  - 🔐 Login page
-  - ❤️ Wishlist
-  - 🛒 Cart and checkout
+- 🔐 Login page
+- ❤️ Wishlist
+- 🛒 Cart and checkout
 
 
 ![desktop view (homepage)](https://github.com/Satyajeet-code/E-commerce-/assets/56536469/ecf9e3da-0085-4cc5-aa7d-32e3fa74951b)
